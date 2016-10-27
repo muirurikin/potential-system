@@ -1,0 +1,88 @@
+/*
+===========
+header
+===========
+*/
+.header {
+    background-color: #1b4f72; 
+}
+.nav {
+    color: #000;
+    width: 100%;
+    
+}
+.views {
+    color: #000;
+    font-weight: 600;
+    text-decoration: none;
+    border-left: solid 1px whitesmoke;
+    display: inline-block;
+    text-align: right;
+    padding: 15px;
+}
+.views:hover {
+    color: whitesmoke;
+    background-color: deepskyblue;
+}
+/*
+===========
+
+===========
+*/
+
+
+
+/*
+===========
+
+===========
+*/
+
+
+
+
+/*
+===========
+
+===========
+*/
+
+
+
+
+
+
+/*
+===========
+
+===========
+*/
+.btn {
+    border-radius: 20px;
+    padding: 13px;
+    color: #000;
+    background-color: gold;
+    
+}
+/*
+=================
+footer
+=================
+*/
+.footer {
+    height: 300px;
+    background-color: #2e86c1;
+    color: whitesmoke;
+    
+}
+.col-1-4 {
+    vertical-align: top;
+    display: inline-block;
+    width: 23%;
+    
+}
+.h6 {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
